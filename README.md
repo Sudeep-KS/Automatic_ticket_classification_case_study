@@ -28,4 +28,4 @@ In this project our goal is to automate its customer support tickets system. As 
 
 
 ## Contact
-Created by [@Sudeep-KS] - feel free to contact me!
+Created by [[@Sudeep-KS](https://github.com/Sudeep-KS)] - feel free to contact me!
